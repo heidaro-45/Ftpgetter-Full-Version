@@ -238,4 +238,4 @@ This repository serves as the official landing page for FTPGetter. The software 
 **Get the most recent version of FTPGetter today!**
 
 ---
-**Last updated:** 2026-09-27 22:40:18 UTC
+**Last updated:** 2026-09-28 01:17:14 UTC
